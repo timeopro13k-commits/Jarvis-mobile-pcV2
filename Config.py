@@ -17,7 +17,8 @@ clap_cooldown: float = 1.5
 @dataclass
 class AIConfig:
 # Mettez votre clé OpenRouter ici (gratuite sur openrouter.ai)
-api_key: str = “VOTRE_CLE_OPENROUTER_ICI”
+api_key: str = “api_key: str = "sk-or-v1-7c810ca492c02-fec4d2c27e4366d210e7bf4a7d802551a2a43a237b0a02748cd"
+”
 base_url: str = “https://openrouter.ai/api/v1”
 model: str = “meta-llama/llama-4-scout:free”
 personality: str = (
