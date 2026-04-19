@@ -30,8 +30,8 @@ jarvis-pc/
 ### 1. Cloner le repo
 
 ```bash
-git clone https://github.com/vous/jarvis-pc.git
-cd jarvis-pc
+git clone https://github.com/vous/jarvis-mobile-pcV2.git
+cd jarvis-mobile-pcV2
 ```
 
 ### 2. Obtenir une clé OpenRouter (gratuit, sans CB)
@@ -46,7 +46,8 @@ cd jarvis-pc
 Ouvrez `Config.py` et remplacez :
 
 ```python
-api_key: str = "VOTRE_CLE_OPENROUTER_ICI"
+api_key: str = "
+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"
 ```
 
 par votre vraie clé :
