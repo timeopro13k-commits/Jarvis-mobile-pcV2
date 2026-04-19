@@ -46,8 +46,7 @@ cd jarvis-mobile-pcV2
 Ouvrez `Config.py` et remplacez :
 
 ```python
-api_key: str = "
-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"
+api_key: str = "YOUR_openrooter_key"
 ```
 
 par votre vraie clé :
