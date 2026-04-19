@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+sounddevice
+numpy
+httpx
+psutil
+pyttsx3
+openai-whisper
